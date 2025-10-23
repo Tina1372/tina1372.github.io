@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://tina1372.github.io//sitemap.xml
